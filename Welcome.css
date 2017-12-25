@@ -1,0 +1,27 @@
+
+body {
+  background: url(https://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg);
+
+}
+
+.intro {
+  margin: 18%;
+  text-align: center;
+}
+
+.sign {
+  background-color: rgb(0, 38, 91);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  background-color: white;
+}
+
+.p2 {
+  margin-left: 20px;
+}
